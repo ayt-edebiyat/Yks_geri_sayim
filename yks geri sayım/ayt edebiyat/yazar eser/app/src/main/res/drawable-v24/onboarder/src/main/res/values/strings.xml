@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="button.finish">Başla</string>
+    <string name="button.next">Sonraki</string>
+    <string name="button.skip">Önceki</string>
+</resources>
